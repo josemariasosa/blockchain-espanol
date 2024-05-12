@@ -1,6 +1,6 @@
 # Blockchain en Español
 
-***Para Alice.***
+***Para Alice.*** 🧿
 
 ## Introducción técnica a blockchain, o cadena de bloques.
 
