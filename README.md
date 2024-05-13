@@ -34,7 +34,12 @@ Otra representación que es interesante es el BIT, el cual equivale a 100 satosh
 1,000,000.00 BIT == 1       BTC
 ```
 
-Hay otras cadenas como ethereum y near que utilizan 18 y 24 decimales, respectivamente.
+Hay otras cadenas como ethereum y near que utilizan 18 y 24 decimales, respectivamente. La unidad de ethereum se conoce como wei, y en near se denomina yoctoNEAR.
+
+```
+1 ETH  == 1,000,000,000,000,000,000       wei
+1 NEAR == 100,000,000,000,000,000,000,000 yoctoNEAR
+```
 
 El método de almacenar información basado en UTXOs, en conjunto con la prueba de trabajo, permite llegar a un consenso entre de nodos, o servidores, sobre el estado de un conjunto de datos. En bitcoin, los datos son representados, por lo general, en transacciones que van de un dirección, una address, de un origen, hacia un destino final.
 
