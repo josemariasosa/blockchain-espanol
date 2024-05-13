@@ -26,6 +26,14 @@ Satoshi     (sats)	    Bitcoin	                U.S. Dollar (2024-may)
 100,000,000 Satoshi	    1.00000000 Bitcoin	    $63672.291
 ```
 
+Otra representación que es interesante es el BIT, el cual equivale a 100 satoshis. De esta manera, es posible visualizar los bits como si contara con 2 decimales, de la misma manera que las monedas tradicionales como el dólar americano.
+
+```
+1.00         BIT == 100     satoshis
+1,000.00     BIT == 100,000 satoshis
+1,000,000.00 BIT == 1       BTC
+```
+
 Hay otras cadenas como ethereum y near que utilizan 18 y 24 decimales, respectivamente.
 
 El método de almacenar información basado en UTXOs, en conjunto con la prueba de trabajo, permite llegar a un consenso entre de nodos, o servidores, sobre el estado de un conjunto de datos. En bitcoin, los datos son representados, por lo general, en transacciones que van de un dirección, una address, de un origen, hacia un destino final.
